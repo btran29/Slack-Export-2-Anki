@@ -7,7 +7,7 @@ output_csv = open('output.csv', 'w')
 output_list = []
 
 # get path (to be determined by crawler)
-current_path = r'C:\Users\Brian\OneDrive\Python\cvs_convert\2017-09-10.json'
+current_path = r'C:\Users\Brian\Documents\GitHub\Slack-Export-2-Anki\Slack-Export-2-Anki\2017-09-10.json'
 data = json.load(open(current_path))
 
 # replace first ':' with the special delimiter character
@@ -24,11 +24,11 @@ for item in data:
 
 
 # write to CSV
-with output_csv:
-    writer = csv.writer(output_csv)
-    writer.writerows(output_list)
+with open('output.csv', 'wb'):
+    writer = csv.writer(output_csv, delimiter='~', quoting=csv.QUOTE_ALL)
+    writer.writerow(output_list)
 
-    # TODO: add delimiter to writer
+# TODO: fix writing issue
 
 
 # TODO: loop over files
