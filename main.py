@@ -1,10 +1,14 @@
 import json
 import csv
 import os
+import re
 
 # settings
 output_csv = open('output.csv', 'w', newline='')
 source_directory = r'C:\Users\Brian\Documents\GitHub\Slack-Export-2-Anki\Messages'
+cleanup_table = {'&lt;':    '<',
+                 '&gt':     '>',
+                 '&amp;':   '&'}
 
 
 # Convert default json text field into front and and back, based on delimiter in slack message
@@ -17,26 +21,26 @@ def parse_slack_text(input_text, csv_delimiter):
         # remove bold formatting from first bolded set of words
         parsed = parsed.replace("*", "", 2)
 
-        # replace html specific quirks
-        parsed = parsed.replace("&lt;", "<")
-        parsed = parsed.replace("&gt;", ">")
+        # replace html specific quirks via regex
+        pattern = re.compile('|'.join(cleanup_table.keys()))
+        parsed = pattern.sub(lambda x: cleanup_table[x.group()], parsed)
 
         # split into dictionary value
         parsed = parsed.split('|')
-        output_dictionary["back"] = parsed[0]
-        output_dictionary["front"] = parsed[1]
+        output_dictionary["front"] = parsed[0]
+        output_dictionary["back"] = parsed[1]
         print(parsed)
     else:
-        # if no delimiter in message, just map entire text to back
-        output_dictionary["back"] = message['text']
-        output_dictionary["front"] = 'Empty'
+        # if no delimiter in message, just map entire text to front
+        output_dictionary["front"] = message['text']
+        output_dictionary["back"] = 'Empty'
     return output_dictionary
 
 
 # Write to CSV
 def write_to_csv(data_in, csv_out):
     with csv_out as output_file:
-        keys = data_in[0].keys()
+        keys = ['front', 'back']
         writer = csv.DictWriter(output_file, fieldnames=keys)
         writer.writerows(data_in)
         csv_out.close()

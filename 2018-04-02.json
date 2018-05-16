@@ -1,0 +1,244 @@
+[
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Iron deficiency anemia*: in addition to the typical low ferritin, low MCV, it is associated with HIGH TRANSFERRIN (aka high TIBC)",
+        "ts": "1522705811.000291"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Methylmalonyl acidemia*: associated with an AR organic acidemia, resulting from complete or partial deficiency of methylmalonyl-CoA mutase, which converts methylmalonyl-CoA to Succinyl-CoA; leads to a buidup of methylmalonyl-CoA, proprionyl-CoA which is excreted in urine",
+        "edited": {
+            "user": "U70RREU02",
+            "ts": "1522706100.000000"
+        },
+        "ts": "1522706083.000382"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Methylmalonyl acidemia*: can present with lethargy, vomiting, tachypnia (acidosis) in newborn; labs show ketotic hypoglycemia, metabolic acidosis; compare to Cori disease, which also includes hepatomegaly with fatty change",
+        "ts": "1522706209.000243"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Scaled-skin syndrome*: exotoxin exfolatin from Staph can cause widespread sloughing of the epidermis, even with gentle pressure (Nikolsky's sign)",
+        "ts": "1522706305.000162"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Lecithin*: aka dipalmatoyl phosphatidlcholine, the one of the major constituents of pulmonary surfactant; the other one being phosphatidylglycerol",
+        "ts": "1522706404.000294"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Lecithin \/ Sphingomyelin ratio*: this ratio is good &gt; 2.0 at third trimester; compares a surfactant component with a common membrane phospholipid",
+        "ts": "1522706497.000106"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Kleinfelter syndrome*: one of the few chromosomal count diseases that can present with relatively mild mental disability",
+        "ts": "1522706587.000404"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Type 1 diabetes*: can present in late adolescence or early adulthood; can also present as unexplained weight loss with fatigue, polydipsia, polyuria",
+        "ts": "1522706799.000331"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Reactive arthritis*: in addition to being cause by the classical UTI of chlamydia, this condition can also be precipitated by infection with _Salmonella, Shigella, Yersina, C. diff_",
+        "ts": "1522706893.000103"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Henloch-Schlonlein purpura (HSP)*: most common small vessel vasculitis in children; can additionally present with intermittent abdominal pain as well as self-limited migratory arthralgias and arthritis",
+        "ts": "1522707364.000389"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Coronary sinus*: located near the atrioventricular sulcus; left ventricular leads in biventricular pacemakers course through here",
+        "ts": "1522707508.000127"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Dressler's syndrome*: post-MI pericarditis that begins one week to a few months after acute MI; mediated by autoimmune reaction to self-antigens released in injury, compare to early onset pericarditis post-MI, which is an inflammatory reaction of pericardium adjacent to necrotizing cardiac muscle (e.g. leaky pro-inflammatory exudates)",
+        "ts": "1522707707.000067"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Inspiration and pulmonary vascular resistance*: increased lung volumes cause length-wise stretching of the pulmonary vessels, increasing their length and reducing their diameter, thereby increasing pulmonary resistance",
+        "ts": "1522708518.000246"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Expiration and pulmonary vascular resistance*: decreasing lung volumes cause compression via positive intrathoracic pressure and decreased radial traction from adjacent tissues, thereby increasing pulmonary resistance",
+        "ts": "1522708594.000259"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Functional residual capacity*: the volume at the bottom of a tidal breath; time of lowest pulmonary resistance",
+        "edited": {
+            "user": "U70RREU02",
+            "ts": "1522708667.000000"
+        },
+        "ts": "1522708645.000367"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Ventricular arrythmia*: can occur ~14 days after MI due to scar formation leading to conduction abnormalities; death usually follows",
+        "ts": "1522708921.000327"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Uterosacro ligaments*: these ligaments connect the uterus with the anterior portion of the sacrum",
+        "ts": "1522709231.000086"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*CN V3*: provides general sensory (touch, pain, pressure, temperature) to anterior 2\/3rds of tongue",
+        "ts": "1522709390.000369"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Reverse T3*: inactive form of thyroid hormone that is generated almost entirely from the peripheral conversion of T4",
+        "ts": "1522709771.000118"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Liothyronine*: aka synthetic thyroid T3; not usually used due to shorter half-life than levothyroxine; administration results in reduced serum TSH, Reverse T3, and endogenous T4",
+        "ts": "1522709943.000227"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Right ventricular diastolic, right atrial, central venous pressure*: these areas in vasculature have a diastolic pressure of 1-6 mmHg",
+        "edited": {
+            "user": "U70RREU02",
+            "ts": "1522710452.000000"
+        },
+        "ts": "1522710161.000263"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Pulmonary artery diastolic pressure*: these areas in vasculature have a diastolic pressure of 6-12 mmHg due to resistance in pulmonary circuit",
+        "edited": {
+            "user": "U70RREU02",
+            "ts": "1522710438.000000"
+        },
+        "ts": "1522710207.000353"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Right ventricular systolic, pulmonary systolic pressure*: these areas in vasculature have a systolic pressure of 25mmHg",
+        "ts": "1522710399.000189"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Left atrial, pulmonary capillary wedge pressure, and left ventricular diastolic pressure*: these areas in vasculature have a MEAN pressure of around 6-12mmHg",
+        "ts": "1522710515.000093"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Serine kinases*: activation of these proteins induces insulin resistance; TNF-alpha, catecholamines, glucocorticoids, glucagon work by this mechanism",
+        "ts": "1522713533.000211"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Insulin receptor signalling*: this signalling pathway involves autophosphorylation of IR, phosphorylation of IR substrates, and then translocation of GLUT4 on adipose and skeletal muscle membrane",
+        "ts": "1522713637.000181"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Serine kinases*: these kinases phosphorylate residues on IR and IRS-1, inhibiting tyrosine phosphorylation of IRS-1 by IR and prevents translocation of GLUT4 into the membrane",
+        "ts": "1522713696.000002"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Postpartum hemorrhage*: if unresponsive to typical medical management (e.g. uterine massage, uterotonic medications), this complication of atony is treated with bilateral internal iliac ligation",
+        "ts": "1522714158.000302"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Elevated free fatty acid levels*: contribute to insulin resistance by impairing insulin-dependent glucose uptake and increasing hepatic  gluconeogenesis",
+        "ts": "1522714417.000033"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Renal plasma flow*: can be calculated with PAH clearance; which in turn is estimated via PAH clearance = (PAH_urine\/PAH_blood)*(Urine flow rate)",
+        "ts": "1522715006.000256"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Renal blood flow*: how much blood flows into the kidney, compare to how much plasma flows through the kidney over a certain amount of time",
+        "ts": "1522715058.000132"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Renal blood flow*: can be calculated by RPF\/(1-Hematocrit)",
+        "ts": "1522715303.000312"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Influenza*: vaccine comprises neutralizing antibodies against hemagluttinin antigen in selected viral strains, preventing viral entry",
+        "ts": "1522716097.000217"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Outcomes of association (e.g. relative risk, odds ratio)*: if similar between studies it is likely that design flaws (e.g. poor blinding, researcher expectancy) were present in the study of interest",
+        "ts": "1522716365.000247"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*Vitamin C deficiency*: can also present as corkscrew hairs and perifollicular hemorrhages on skin findings; results in defective function of collagen synthesis enzymes in the *RER*",
+        "ts": "1522716471.000061"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*DNA Enhancer sequences*: these DNA sequences bind to activator proteins that facilitate bending of DNA; this in turn allows interaction with general transcription factors; compare to promoter sequences which are 25\/75 bp upstream",
+        "edited": {
+            "user": "U70RREU02",
+            "ts": "1522781662.000000"
+        },
+        "ts": "1522717200.000171"
+    },
+    {
+        "type": "message",
+        "user": "U70RREU02",
+        "text": "*DNA silencer sequences*: these DNA sequences bind to repressor proteins that decrease transcription rates",
+        "ts": "1522717256.000115"
+    }
+]
